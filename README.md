@@ -1,0 +1,1 @@
+This code attempts to learn circuit parameters for a particular amplitude evolution using symobolic regression. The first code Symbolic Strawberry generates a set of random points. The second pyoperon code attempts to regress it. 
